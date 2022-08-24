@@ -1,4 +1,4 @@
-### 1일 1커밋하기👋
+### 1일 1 커밋하기👋
 
 <!--
 **Denebe/Denebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
